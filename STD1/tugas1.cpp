@@ -1,4 +1,4 @@
-//tugasharis
+//tugasharis std1
 #include<iostream>
 using namespace std;
 char kendaraan [7][15] =
